@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
   return (
@@ -18,7 +19,10 @@ const Home = () => {
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-red-600 hover:border-red-600 ">
-            <a href="/work">View Work</a>
+            {/* <a href="/work">View Work</a> */}
+            <Link to="/work">
+              <span>View Work</span>
+            </Link>
           </button>
         </div>
       </div>

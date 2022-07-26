@@ -29,6 +29,9 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 Business Static Website
               </span>
+              <br></br>
+              <br />
+              <p>A sample business static website built using HTML and CSS.</p>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/Landing-Page/"
@@ -45,7 +48,7 @@ const Work = () => {
                   rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    GitHub
                   </button>
                 </a>
               </div>
@@ -60,6 +63,9 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 Snake JS Game
               </span>
+              <br></br>
+              <br />
+              <p>A fun retro game built using HTML, CSS and JavaScript.</p>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/Snake-JS-Game/"
@@ -76,7 +82,7 @@ const Work = () => {
                   rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    GitHub
                   </button>
                 </a>
               </div>
@@ -92,6 +98,11 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 React To-Do App
               </span>
+              <br></br>
+              <br />
+              <p>
+                List down your to-do list with this app. Built using React JS.
+              </p>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/todo-list/"
@@ -108,7 +119,7 @@ const Work = () => {
                   rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    GitHub
                   </button>
                 </a>
               </div>
@@ -123,6 +134,11 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 React Pokedex App
               </span>
+              <br></br>
+              <br />
+              <p>
+                See your favorite Pokemon's with this app. Built using React JS.
+              </p>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/pokemon-app/"
@@ -139,7 +155,7 @@ const Work = () => {
                   rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    GitHub
                   </button>
                 </a>
               </div>
@@ -153,8 +169,14 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React E-Commerce App
+                React E-Commerce Clothing App
               </span>
+              <br></br>
+              <br />
+              <p>
+                Select different kinds of clothing with this app. Built using
+                React JS.
+              </p>
               <div className="pt-8 text-center">
                 <a
                   href="https://project5-react-ecommerce.herokuapp.com/"
@@ -171,7 +193,7 @@ const Work = () => {
                   rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    GitHub
                   </button>
                 </a>
               </div>
@@ -184,8 +206,14 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                MERN Stack E-Commerce App
+                MERN Stack E-Commerce Book App
               </span>
+              <br></br>
+              <br />
+              <p>
+                Browse thru different kind of books with this app. Built using
+                MongoDB, React JS, Express JS, Node JS.
+              </p>
               <div className="pt-8 text-center">
                 <a
                   href="https://github.com/justinjurolan/mernstack-ecommerce"
@@ -202,7 +230,7 @@ const Work = () => {
                   rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    GitHub
                   </button>
                 </a>
               </div>
