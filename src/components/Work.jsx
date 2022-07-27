@@ -216,7 +216,7 @@ const Work = () => {
               </p>
               <div className="pt-8 text-center">
                 <a
-                  href="https://github.com/justinjurolan/mernstack-ecommerce"
+                  href="https://mern-ecomm-bookshop.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
