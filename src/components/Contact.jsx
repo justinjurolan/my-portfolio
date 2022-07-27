@@ -12,6 +12,7 @@ const Contact = () => {
         className="flex flex-col max-w-[600px] w-full"
       >
         <div className="pb-8">
+          <br />
           <p className="text-4xl font-bold inline border-b-4 border-red-600 text-gray-300">
             Contact
           </p>

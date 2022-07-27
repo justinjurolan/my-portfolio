@@ -11,6 +11,9 @@ const Work = () => {
     <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
+          <br />
+          <br />
+          <br />
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-red-600">
             Work
           </p>
@@ -29,9 +32,10 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 Business Static Website
               </span>
-              <br></br>
               <br />
-              <p>A sample business static website built using HTML and CSS.</p>
+              <span>
+                A sample business static website built using HTML and CSS.
+              </span>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/Landing-Page/"
@@ -63,9 +67,11 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 Snake JS Game
               </span>
-              <br></br>
+
               <br />
-              <p>A fun retro game built using HTML, CSS and JavaScript.</p>
+              <span>
+                A fun retro game built using HTML, CSS and JavaScript.
+              </span>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/Snake-JS-Game/"
@@ -98,11 +104,10 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 React To-Do App
               </span>
-              <br></br>
               <br />
-              <p>
+              <span>
                 List down your to-do list with this app. Built using React JS.
-              </p>
+              </span>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/todo-list/"
@@ -136,9 +141,9 @@ const Work = () => {
               </span>
               <br></br>
               <br />
-              <p>
+              <span>
                 See your favorite Pokemon's with this app. Built using React JS.
-              </p>
+              </span>
               <div className="pt-8 text-center">
                 <a
                   href="https://justinjurolan.github.io/pokemon-app/"
@@ -173,10 +178,10 @@ const Work = () => {
               </span>
               <br></br>
               <br />
-              <p>
+              <span>
                 Select different kinds of clothing with this app. Built using
                 React JS.
-              </p>
+              </span>
               <div className="pt-8 text-center">
                 <a
                   href="https://project5-react-ecommerce.herokuapp.com/"
@@ -210,10 +215,10 @@ const Work = () => {
               </span>
               <br></br>
               <br />
-              <p>
+              <span>
                 Browse thru different kind of books with this app. Built using
                 MongoDB, React JS, Express JS, Node JS.
-              </p>
+              </span>
               <div className="pt-8 text-center">
                 <a
                   href="https://mern-ecomm-bookshop.netlify.app/"
