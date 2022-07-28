@@ -20,7 +20,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <Link to="/my-portfolio">
+        <Link to="/">
           <img
             src={logo}
             alt="logo"
@@ -33,7 +33,7 @@ const Navbar = () => {
 
       <ul className="hidden md:flex">
         <li>
-          <Link to="/my-portfolio">Home</Link>
+          <Link to="/">Home</Link>
         </li>
         <li>
           <Link to="/about">About</Link>
@@ -63,7 +63,7 @@ const Navbar = () => {
         }
       >
         <li className="py-6 text-4xl">
-          <a href="/my-portfolio">Home</a>
+          <a href="/">Home</a>
         </li>
         <li className="py-6 text-4xl">
           <a href="/about">About</a>
