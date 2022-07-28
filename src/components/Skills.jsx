@@ -15,8 +15,8 @@ const Skills = () => {
         <br />
         <br />
         <div>
-          <p className="text-4xl font-bold inline border-b-4 border-red-600">
-            Skills
+          <p className="text-2xl font-bold inline border-b-4 border-red-600">
+            Languages that I speak.
           </p>
         </div>
         <br />

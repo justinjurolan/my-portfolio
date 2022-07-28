@@ -26,13 +26,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 text-center">
+            <div className="opacity-0 group-hover:opacity-100 text-center px-4">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Business Static Website
               </span>
               <br />
               <br />
-              <span className="font-bold">
+              <span className="font-medium">
                 A sample business static website built using HTML and CSS.
               </span>
               <div className="pt-8 text-center">
@@ -62,13 +62,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 text-center">
+            <div className="opacity-0 group-hover:opacity-100 text-center px-4">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Snake JS Game
               </span>
               <br />
               <br />
-              <span className="font-bold">
+              <span className="font-medium">
                 A fun retro game built using HTML, CSS and JavaScript.
               </span>
               <div className="pt-8 text-center">
@@ -99,13 +99,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 text-center">
+            <div className="opacity-0 group-hover:opacity-100 text-center px-4">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React To-Do App
               </span>
               <br />
               <br />
-              <span className="font-bold">
+              <span className="font-medium">
                 List down your to-do list with this app. Built using React JS.
               </span>
               <div className="pt-8 text-center">
@@ -135,13 +135,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 text-center">
+            <div className="opacity-0 group-hover:opacity-100 text-center px-4">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React Pokedex App
               </span>
               <br></br>
               <br />
-              <span className="font-bold">
+              <span className="font-medium">
                 See your favorite Pokemon's with this app. Built using React JS.
               </span>
               <div className="pt-8 text-center">
@@ -172,13 +172,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 text-center">
+            <div className="opacity-0 group-hover:opacity-100 text-center px-4">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React E-Commerce Clothing App
               </span>
               <br></br>
               <br />
-              <span className="font-bold">
+              <span className="font-medium">
                 Select different kinds of clothing with this app. Built using
                 React JS.
               </span>
@@ -209,13 +209,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 text-center">
+            <div className="opacity-0 group-hover:opacity-100 text-center px-4">
               <span className="text-2xl font-bold text-white tracking-wider">
                 MERN Stack E-Commerce Book App
               </span>
               <br></br>
               <br />
-              <span className="font-bold">
+              <span className="font-medium">
                 Browse thru different kind of books with this app. Built using
                 MongoDB, React JS, Express JS, Node JS.
               </span>
