@@ -15,7 +15,7 @@ const Skills = () => {
           <p className="text-4xl font-bold inline border-b-4 border-red-600">
             Skills
           </p>
-          <p className="py-4"></p>
+          <p className="py-6"></p>
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-8">
@@ -33,7 +33,7 @@ const Skills = () => {
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img src={ReactIMG} alt="React Icon" className="w-20 mx-auto" />
-            <p className="my-4">REACT</p>
+            <p className="my-4">REACT JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img src={Node} alt="Node Icon" className="w-20 mx-auto" />

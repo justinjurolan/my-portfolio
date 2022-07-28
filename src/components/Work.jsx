@@ -17,7 +17,7 @@ const Work = () => {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-red-600">
             Work
           </p>
-          <p className="py-6">Check out some of my recent work</p>
+          {/* <p className="py-6"></p> */}
         </div>
 
         {/* Container */}
@@ -32,6 +32,7 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 Business Static Website
               </span>
+              <br />
               <br />
               <span>
                 A sample business static website built using HTML and CSS.
@@ -67,7 +68,7 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 Snake JS Game
               </span>
-
+              <br />
               <br />
               <span>
                 A fun retro game built using HTML, CSS and JavaScript.
@@ -104,6 +105,7 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 React To-Do App
               </span>
+              <br />
               <br />
               <span>
                 List down your to-do list with this app. Built using React JS.
