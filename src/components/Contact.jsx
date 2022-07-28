@@ -13,6 +13,9 @@ const Contact = () => {
       >
         <div className="pb-8">
           <br />
+          <br />
+          <br />
+          <br />
           <p className="text-4xl font-bold inline border-b-4 border-red-600 text-gray-300">
             Contact
           </p>

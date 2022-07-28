@@ -10,14 +10,12 @@ const Work = () => {
   return (
     <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
-          <br />
-          <br />
-          <br />
-          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-red-600">
-            Work
+        <br />
+        <br />
+        <div className="py-8">
+          <p className="text-2xl font-bold inline border-b-4 text-gray-300 border-red-600">
+            Here are a few past projects I've worked on.
           </p>
-          {/* <p className="py-6"></p> */}
         </div>
 
         {/* Container */}
@@ -28,13 +26,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Business Static Website
               </span>
               <br />
               <br />
-              <span>
+              <span className="font-bold">
                 A sample business static website built using HTML and CSS.
               </span>
               <div className="pt-8 text-center">
@@ -64,13 +62,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Snake JS Game
               </span>
               <br />
               <br />
-              <span>
+              <span className="font-bold">
                 A fun retro game built using HTML, CSS and JavaScript.
               </span>
               <div className="pt-8 text-center">
@@ -101,13 +99,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React To-Do App
               </span>
               <br />
               <br />
-              <span>
+              <span className="font-bold">
                 List down your to-do list with this app. Built using React JS.
               </span>
               <div className="pt-8 text-center">
@@ -137,13 +135,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React Pokedex App
               </span>
               <br></br>
               <br />
-              <span>
+              <span className="font-bold">
                 See your favorite Pokemon's with this app. Built using React JS.
               </span>
               <div className="pt-8 text-center">
@@ -174,13 +172,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React E-Commerce Clothing App
               </span>
               <br></br>
               <br />
-              <span>
+              <span className="font-bold">
                 Select different kinds of clothing with this app. Built using
                 React JS.
               </span>
@@ -211,13 +209,13 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
                 MERN Stack E-Commerce Book App
               </span>
               <br></br>
               <br />
-              <span>
+              <span className="font-bold">
                 Browse thru different kind of books with this app. Built using
                 MongoDB, React JS, Express JS, Node JS.
               </span>
