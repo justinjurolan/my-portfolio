@@ -33,7 +33,7 @@ const Navbar = () => {
 
       <ul className="hidden md:flex">
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/my-portfolio">Home</Link>
         </li>
         <li>
           <Link to="/about">About</Link>
@@ -63,7 +63,7 @@ const Navbar = () => {
         }
       >
         <li className="py-6 text-4xl">
-          <a href="/">Home</a>
+          <a href="/my-portfolio">Home</a>
         </li>
         <li className="py-6 text-4xl">
           <a href="/about">About</a>
