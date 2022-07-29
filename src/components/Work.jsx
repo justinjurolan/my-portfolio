@@ -1,10 +1,10 @@
 import React from 'react';
-import project1 from '../assets/project1.png';
 import project2 from '../assets/project2.png';
 import project3 from '../assets/project3.png';
 import project4 from '../assets/project4.png';
 import project5 from '../assets/project5.png';
 import project6 from '../assets/project6img.jpg';
+import project7 from '../assets/project7layag.jpg';
 
 const Work = () => {
   return (
@@ -14,7 +14,7 @@ const Work = () => {
         <br />
         <div className="py-8">
           <p className="text-2xl font-bold inline border-b-4 text-gray-300 border-red-600">
-            Here are a few past projects I've worked on.
+            Here are the few past projects I've worked on.
           </p>
         </div>
 
@@ -22,22 +22,22 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${project1})` }}
+            style={{ backgroundImage: `url(${project7})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100 text-center px-4">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Business Static Website
+                MERN Travel Booking App
               </span>
               <br />
               <br />
               <span className="font-medium">
-                A sample business static website built using HTML and CSS.
+                Travel to different tourist attraction here in the Philippines.
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://justinjurolan.github.io/Landing-Page/"
+                  href="https://62e2dd6e4844471ccf13f227--lively-gumption-2fffc2.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -46,7 +46,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/justinjurolan/Landing-Page"
+                  href="https://github.com/justinjurolan/mern-bookingapp"
                   target="_blank"
                   rel="noreferrer"
                 >
